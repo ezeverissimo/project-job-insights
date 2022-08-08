@@ -1,1 +1,1 @@
-
+Neste projeto eu implementei análises a partir de um conjunto de dados sobre empregos. Minhas implementações serãp incorporadas a um aplicativo Web desenvolvido com Flask. Eu também tive a oportunidade de escrever testes para a implementação de uma análise de dados.
